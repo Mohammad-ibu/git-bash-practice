@@ -17,7 +17,8 @@ they are,
     *git remote -v --- to see which repo are we in.
     *git branch --- to see which branch are we in (main,master)
     *git --oneline --- used to see the log in one line
- 
+    *restore --- Restore working tree files
+    *revert --- Revert some existing commits 
 with this basics we can create a repo and maintain version controll
 
 
