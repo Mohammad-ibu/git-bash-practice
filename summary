@@ -1,0 +1,33 @@
+todays summary (^-^) - 11:25 sat,dec 20 (2025)
+
+its about the git basic essensials ;
+
+there are three levels to push a file in a repository;
+
+they are,
+    *git init --- initialize
+    *git add --- add a file to the folder
+    *git commit -m ""  --- save the file stanby in the local repo
+    *git push --- push the file to the remote repo
+    *git pull --- pull the file from the repo
+    *git clone <https://repo> --- clone the remote repo to the folder
+    *git log --- used to see the changes 
+    *git status --- used to see which file is tracked and are not ,modified etc..
+    *git remote set-url <URL> --- to change the repo
+    *git remote -v --- to see which repo are we in.
+    *git branch --- to see which branch are we in (main,master)
+    *git --oneline --- used to see the log in one line
+ 
+with this basics we can create a repo and maintain version controll
+
+
+
+cd
+ll -lrt
+touch
+cat
+nano
+ls
+mv
+rm
+these are commonly used in git also
